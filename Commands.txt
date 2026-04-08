@@ -191,7 +191,7 @@ Stopping the server
 !fuser -k 8000/tcp
 
 Removing the log as part of clean up
-!rm -f uvicorn.log
+!rm -f uvicorn.log 
 
 
 
