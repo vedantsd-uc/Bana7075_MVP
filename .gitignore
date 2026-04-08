@@ -8,6 +8,7 @@ __pycache__/
 
 # MLRuns contains large files
 mlruns/
+artifacts/
 
 # Distribution / packaging
 .Python
@@ -28,6 +29,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.venv/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
